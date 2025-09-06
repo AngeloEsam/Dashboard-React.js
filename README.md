@@ -3,6 +3,13 @@
 A modern Admin Dashboard built with React, Vite, Tailwind CSS, React Router, Recharts, and Framer Motion.
 The project provides a clean, responsive, and customizable admin panel interface with multiple sections like Overview, Products, Users, Sales, Orders, Analytics, and Settings.
 
+---
+
+## 🚀 Live Demo 
+[🔗 View Live](https://dashboard-react-js-flax.vercel.app/)
+
+---
+
 ##🚀 Features
 
 ⚡ Fast & optimized build with Vite
@@ -20,15 +27,6 @@ The project provides a clean, responsive, and customizable admin panel interface
 📱 Fully responsive layout (desktop & mobile ready)
 
 🧩 Modular components for easy extension
-
-## 🧰 Tech Stack
-
-| Layer      | Tech                           |
-|------------|--------------------------------|
-| Frontend   | React,Tailwind CSS,shadcn ui   |
-| Backend    | Node.js, Express.js,prima      |
-| Database   | mysql                          |
-| Dev Tools  | Vite, ESLint, Nodemon          |
 
 ---
 
